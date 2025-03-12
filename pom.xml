@@ -25,7 +25,7 @@
 		<tomcat.port>9081</tomcat.port>
 	    <tomcat.ip>127.0.0.1</tomcat.ip>
 	    <file>readme</file>
-		<lombok.version>1.18.10</lombok.version>
+		<lombok.version>1.18.30</lombok.version>
 		<spring-security-oauth2.version>2.5.2.RELEASE</spring-security-oauth2.version>
 		<jackson-databind.version>2.15.2</jackson-databind.version>
 
